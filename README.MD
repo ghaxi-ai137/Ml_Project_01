@@ -1,7 +1,7 @@
 # created a ML project folder
 # Creating a virtual environment in windows
 python --version to check python version
-To cleaar the terminal we use "clear" command
+To clear the terminal we use "clear" command
 python -m ven ven_name
 python -m venv mlpro to create a virtual environment
 # Action the virtual environment
